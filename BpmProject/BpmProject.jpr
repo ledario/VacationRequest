@@ -214,6 +214,7 @@
       <hash n="javaContentSet">
          <list n="url-path">
             <url path="SOA/SCA-INF/src/"/>
+            <url path="../../VacationRequestBPM/"/>
          </list>
       </hash>
    </hash>
